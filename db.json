@@ -1,0 +1,112 @@
+{
+    "tareas": [
+      {
+        "id": 1,
+        "titulo": "Configurar entorno de desarrollo",
+        "descripcion": "Instalar y configurar herramientas necesarias como NodeJS, Git y Visual Studio Code para el equipo de desarrollo.",
+        "tiempo": "1 día",
+        "imagen": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80&w=1169&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "responsable": "Juan Pérez",
+        "estado": "PORHACER"
+      },
+      {
+        "id": 2,
+        "titulo": "Diseñar interfaz de usuario",
+        "descripcion": "Crear mockups y prototipos para la nueva aplicación utilizando Figma o Sketch.",
+        "tiempo": "7 días",
+        "imagen": "https://img.freepik.com/foto-gratis/disenadora-web-femenina-papeles-notas-oficina_23-2149749879.jpg?w=996&t=st=1698089365~exp=1698089965~hmac=66bc564f6fd6a26b72fc83830b5fbf1e4e94f021815422a3442f5811118c4b80",
+        "responsable": "María Rodríguez",
+        "estado": "ENPRODUCCION"
+      },
+      {
+        "id": 3,
+        "titulo": "Desarrollar endpoint de autenticación",
+        "descripcion": "Implementar y probar el endpoint de autenticación JWT en el backend usando Express y MongoDB.",
+        "tiempo": "15 días",
+        "imagen": "https://img.freepik.com/foto-gratis/cerrar-hombre-escribiendo-codigo-computadora-portatil_158595-5169.jpg?w=996&t=st=1698089414~exp=1698090014~hmac=14dd0274d7ce1a2f283fc4e352cb7528385930d2d56ea154ee3abc8040ad36ec",
+        "responsable": "Carlos Sánchez",
+        "estado": "PORTESTEAR"
+      },
+      {
+        "id": 4,
+        "titulo": "Integrar API en el frontend",
+        "descripcion": "Conectar la aplicación frontend con los endpoints desarrollados en el backend para obtener y enviar datos.",
+        "tiempo": "4 días",
+        "imagen": "https://images.unsplash.com/photo-1610986603166-f78428624e76?auto=format&fit=crop&q=80&w=1158&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "responsable": "Lucía García",
+        "estado": "COMPLETADA"
+      },
+      {
+        "id": 5,
+        "titulo": "Optimizar rendimiento de la aplicación",
+        "descripcion": "Identificar y corregir posibles cuellos de botella en el código para mejorar la velocidad y eficiencia.",
+        "tiempo": "10 días",
+        "imagen": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?auto=format&fit=crop&q=80&w=1170&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "responsable": "Javier Torres",
+        "estado": "PORHACER"
+      },
+      {
+        "id": 6,
+        "titulo": "Escribir pruebas unitarias",
+        "descripcion": "Desarrollar pruebas unitarias para asegurar que cada función y componente trabaje correctamente.",
+        "tiempo": "3 días",
+        "imagen": "https://images.unsplash.com/photo-1576444356170-66073046b1bc?auto=format&fit=crop&q=80&w=1170&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "responsable": "Lorena Méndez",
+        "estado": "ENPRODUCCION"
+      },
+      {
+        "id": 7,
+        "titulo": "Documentar API",
+        "descripcion": "Elaborar una documentación detallada sobre los endpoints, métodos y formatos de la API para el uso del equipo y clientes.",
+        "tiempo": "20 días",
+        "imagen": "https://img.freepik.com/foto-gratis/concepto-control-calidad-estandar-m_23-2150041854.jpg?w=996&t=st=1698089687~exp=1698090287~hmac=06cc7fda17a06f01ed87032b5f7d238fe7c8fdd6461e2235a4c7824818cd7cf1",
+        "responsable": "Felipe Ruiz",
+        "estado": "PORTESTEAR"
+      },
+      {
+        "id": 8,
+        "titulo": "Realizar pruebas de carga",
+        "descripcion": "Utilizar herramientas como JMeter para simular múltiples peticiones y asegurarse de que la aplicación pueda manejar la demanda.",
+        "tiempo": "6 días",
+        "imagen": "https://img.freepik.com/foto-gratis/cerrar-hombre-escribiendo-codigo-computadora-portatil_158595-5169.jpg?w=996&t=st=1698089414~exp=1698090014~hmac=14dd0274d7ce1a2f283fc4e352cb7528385930d2d56ea154ee3abc8040ad36ec",
+        "responsable": "Gabriela López",
+        "estado": "PORHACER"
+      },
+      {
+        "id": 9,
+        "titulo": "Optimizar consultas a la base de datos",
+        "descripcion": "Revisar y mejorar las consultas a la base de datos para acelerar los tiempos de respuesta.",
+        "tiempo": "4 días",
+        "imagen": "https://img.freepik.com/foto-gratis/cerrar-hombre-escribiendo-codigo-computadora-portatil_158595-5169.jpg?w=996&t=st=1698089414~exp=1698090014~hmac=14dd0274d7ce1a2f283fc4e352cb7528385930d2d56ea154ee3abc8040ad36ec",
+        "responsable": "Miguel Hernández",
+        "estado": "ENPRODUCCION"
+      },
+      {
+        "id": 10,
+        "titulo": "Integrar notificaciones push",
+        "descripcion": "Añadir soporte para notificaciones push para mantener a los usuarios informados sobre las actualizaciones.",
+        "tiempo": "7 días",
+        "imagen": "https://img.freepik.com/foto-gratis/cerrar-hombre-escribiendo-codigo-computadora-portatil_158595-5169.jpg?w=996&t=st=1698089414~exp=1698090014~hmac=14dd0274d7ce1a2f283fc4e352cb7528385930d2d56ea154ee3abc8040ad36ec",
+        "responsable": "Daniela Ortega",
+        "estado": "PORTESTEAR"
+      },
+      {
+        "id": 11,
+        "titulo": "Actualizar documentación del usuario",
+        "descripcion": "Actualizar manuales y guías del usuario para reflejar las nuevas características y cambios en la aplicación.",
+        "tiempo": "5 días",
+        "imagen": "https://img.freepik.com/foto-gratis/cerrar-hombre-escribiendo-codigo-computadora-portatil_158595-5169.jpg?w=996&t=st=1698089414~exp=1698090014~hmac=14dd0274d7ce1a2f283fc4e352cb7528385930d2d56ea154ee3abc8040ad36ec",
+        "responsable": "Fernando Gómez",
+        "estado": "COMPLETADA"
+      },
+      {
+        "id": 12,
+        "titulo": "Realizar pruebas de usabilidad",
+        "descripcion": "Organizar sesiones de prueba con usuarios para identificar posibles áreas de mejora en la interfaz y experiencia del usuario.",
+        "tiempo": "8 días",
+        "imagen": "https://img.freepik.com/foto-gratis/cerrar-hombre-escribiendo-codigo-computadora-portatil_158595-5169.jpg?w=996&t=st=1698089414~exp=1698090014~hmac=14dd0274d7ce1a2f283fc4e352cb7528385930d2d56ea154ee3abc8040ad36ec",
+        "responsable": "Andrea Silva",
+        "estado": "PORHACER"
+      }
+    ]
+  }
